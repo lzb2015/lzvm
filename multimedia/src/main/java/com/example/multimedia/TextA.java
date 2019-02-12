@@ -6,6 +6,11 @@ import android.util.Log;
 public class TextA extends TextB{
 
     ///////
+
+
+
+
+    ///xxxxxxxxxx
     public TextA(){
         Log.e("tag " , "我是TextA");
     }
